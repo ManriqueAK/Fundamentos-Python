@@ -1,5 +1,5 @@
 weight = float(input("Ingrese su peso corporal en Kg: "))
-height = float(input())
+height = float(input("Ingrese su estatura en metros: "))
 imc = 0
 peso = ""
 
